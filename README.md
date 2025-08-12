@@ -1,17 +1,22 @@
-# Handwritten Text Generator (ML)
+# MNIST Handwritten Generator (Python)
 
-**Generates realistic handwritten digits using Deep Learning**  
+## What's This?
+A Python project that generates realistic handwritten digits using deep learning. Trained on the MNIST dataset, it can whip up digits that look like they came straight from a notebook.📝   
 
-## 🚀 Key Features  
-- Trained a **CNN model** (TensorFlow) on dataset  
-- Achieved **92% accuracy** in digit generation  
-- Added noise injection for varied handwriting styles  
+## Highlights 
+- Build a CNN model using TensorFlow  
+- Achieved 92% accuracy in digit generation  
+- Added noise for more "human" handwriting 
 
-## 🛠️ Tech Stack  
-- Python · TensorFlow · OpenCV · NumPy  
+## Tech Stack  
+  Python · TensorFlow · OpenCV · NumPy  
 
-## 📦 How to Run  
-1. Install dependencies:  
-   ```bash
-   pip install tensorflow opencv-python numpy
+## Note  
+No live demo - just run the script locally and check out the generated digits. Screenshots below show what you can expect! 🖼️
+
+## Results
+Inputs and Ouputs
+<img width="1179" height="598" alt="image" src="https://github.com/user-attachments/assets/9be72589-7610-453f-9b2a-2e146ea2c8fb" />
+<img width="980" height="134" alt="image" src="https://github.com/user-attachments/assets/1fe45262-d116-4c5f-bafe-5e55c65e4dd6" />
+
 
